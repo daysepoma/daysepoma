@@ -1,7 +1,6 @@
 
 <div style="display: flex; align-items: center; margin-bottom:-3em;">
-  <h1 style="margin-right: -10px; color:#ac82e5">Hi there</h1>
-  <img src="https://i.giphy.com/lVHOm4nZ0yfFXI8cgd.webp" width="90">
+  <h1 style="margin-right: -10px; color:#ac82e5">Hi there👋</h1>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dayse%20Poma-ac82e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daysepoma)](https://www.linkedin.com/in/daysepoma) 
@@ -17,7 +16,7 @@
 </div>
 
 ---
-<p style="color:#ac82e5; text-align: center;"><i>stats</i></p>
+<p style="color:#ac82e5; text-align: center;">🎀<i>stats</i>🎀</p>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnpoma&theme=high-contrast&bg_color=20232a&hide_border=true&line=ac82e5&custom_title=Contribution%20Graph" width="100%"/> -->
 
@@ -75,9 +74,15 @@
     </div>
 </div>
     
----
-<p style="color:#ac82e5; text-align: center;"><i>Have fun</i> 💻🌟🌸</p>
+</br></br></br></br></br></br></br></br>    
 
+---
+
+
+<div align="center">
+<p style="color:#ac82e5; text-align: center;"><i>Have fun</i> 💻🌟🌸</p>
+  <img src="https://i.giphy.com/lVHOm4nZ0yfFXI8cgd.webp" width="90">
+</div>
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnpoma)](https://github.com/dnpoma/github-readme-stats&title_color=6B7ABF)
 
 
