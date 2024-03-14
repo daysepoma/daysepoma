@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dayse%20Poma-ac82e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daysepoma)](https://www.linkedin.com/in/daysepoma) 
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20💻⋆⁺₊✧&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
@@ -15,7 +15,7 @@
 </div>
 
 ---
-<p style="color:#ac82e5; text-align: center;">🎀<i>stats</i>🎀</p>
+<p align="center" style="color:#ac82e5; text-align: center;">🎀<i>stats</i>🎀</p>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnpoma&theme=high-contrast&bg_color=20232a&hide_border=true&line=ac82e5&custom_title=Contribution%20Graph" width="100%"/> -->
 
@@ -32,10 +32,9 @@
   </div>
 </p>
 
-</br></br></br>
-
+<br/><br/><br/><br/><br/><br/>
 ---
-
+<br/><br/><br/><br/><br/><br/>
 <div align="center">
     <p style="color:#ac82e5">
     <i>
