@@ -1,10 +1,9 @@
 
-<div style="display: flex; align-items: center; margin-bottom:-3em;">
-  <h1 style="margin-right: -10px; color:#ac82e5">Hi there👋</h1>
+<div style="display: flex; align-items: center;">
+  <h1 style="color:#ac82e5">Hi there👋</h1>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dayse%20Poma-ac82e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daysepoma)](https://www.linkedin.com/in/daysepoma) 
----
 
 <div style="text-align: center;">
 
@@ -33,7 +32,7 @@
   </div>
 </p>
 
-
+</br></br></br>
 
 ---
 
