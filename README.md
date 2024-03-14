@@ -34,13 +34,14 @@
 
 
 <br/><br/><br/><br/><br/><br/>
+<p align="center">
 <div align="center">
     <p style="color:#ac82e5">
     <i>
     My Beloved Tech Treasures</i>🧸💫</p>
     <div style="flex: 1; padding: 5px; display: inline-block;text-align: center; border">
         <table>
-        <tr  align="center">
+        <tr>
             <td>
             <img src="https://skillicons.dev/icons?i=html"width="48" height="48" alt="html" />
             <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
@@ -48,7 +49,7 @@
             <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
             </td>
         </tr>
-        <tr  align="center">
+        <tr>
             <td>
             <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
             <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -56,7 +57,7 @@
             <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
             </td>
         </tr>
-        <tr  align="center">
+        <tr>
             <td>
             <img src="https://skillicons.dev/icons?i=cpp"width="48" height="48" alt="cpp" />
             <img src="https://skillicons.dev/icons?i=java"width="48" height="48" alt="java" />
@@ -70,7 +71,8 @@
         </table>
     </div>
 </div>
-    
+</p>
+
 </br></br></br></br>
 
 ---
