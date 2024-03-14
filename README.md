@@ -33,7 +33,10 @@
 </p>
 
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
+---
+<br/><br/><br/>
+
 <p align="center">
 <div align="center">
     <p style="color:#ac82e5">
