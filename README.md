@@ -26,11 +26,14 @@
       <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnpoma&title_color=ac82e5&hide_progress=true&border_color=dcdbff" />
     </a>
   </div>
+  <br/><br/><br/>
 </p>
+
+<br/><br/>
 
 ---
 
-<br/>
+<br/><br/><br/><br/><br/>
 <div align="center">
     <p style="color:#ac82e5">
     <i>
