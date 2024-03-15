@@ -19,10 +19,10 @@
 
 <p align="center">
   <div align="center" style="display: flex; justify-content: center;">
-    <a style="flex: 1; padding: 5px; margin-right: 10px;" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a style="flex: 1; padding: 5px; margin-top:10px; margin-right: 10px;" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width="390" src="https://streak-stats.demolab.com/?user=dnpoma&theme=buefy&border=dcdbff&card_width=150px" alt="zumrudu-anka" />
     </a>
-    <a style="flex: 1; padding: 5px; margin-left: 10px;" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a style="flex: 1; padding: 5px; margin-top:10px; margin-left: 10px;" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnpoma&title_color=ac82e5&hide_progress=true&border_color=dcdbff" />
     </a>
   </div>
@@ -31,7 +31,7 @@
 
 <br/><br/>
 
----
+
 
 <br/><br/><br/><br/><br/>
 <div align="center">
