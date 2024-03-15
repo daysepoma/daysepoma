@@ -1,15 +1,15 @@
-
 <div style="display: flex; align-items: center;">
   <h1 style="color:#ac82e5">Hi there👋</h1>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dayse%20Poma-ac82e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daysepoma)](https://www.linkedin.com/in/daysepoma) 
+[![Linkedin Badge](https://img.shields.io/badge/-Dayse%20Poma-ac82e5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daysepoma)](https://www.linkedin.com/in/daysepoma)
 
 <div align="center" style="text-align: center;">
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20💻⋆⁺₊✧&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 ![](https://komarev.com/ghpvc/?username=dnpoma&color=ac82e5&style=plastic&label=you're)
+
 <!-- <img height="30em" src="https://profile-counter.glitch.me/daysepoma/count.svg"/> -->
 </div>
 
@@ -17,8 +17,6 @@
 
 <p align="center" style="color:#ac82e5; text-align: center;">🎀<i>stats</i>🎀</p>
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnpoma&theme=high-contrast&bg_color=20232a&hide_border=true&line=ac82e5&custom_title=Contribution%20Graph" width="100%"/> -->
-
-
 
 <p align="center">
   <div align="center" style="display: flex; justify-content: center;">
@@ -32,7 +30,8 @@
 </p>
 <br/>
 
---- 
+---
+
 <br/>
 <div align="center">
     <p style="color:#ac82e5">
@@ -72,6 +71,7 @@
 </div>
 
 <br/>
+
 ---
 
 <div align="center">
@@ -80,11 +80,7 @@
 </div>
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnpoma)](https://github.com/dnpoma/github-readme-stats&title_color=6B7ABF)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=6B7ABF&hide_progress=true&border_color=dcdbff) 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=6B7ABF&hide_progress=true&border_color=dcdbff)
 
 <!--
 **dnpoma/dnpoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -100,4 +96,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
