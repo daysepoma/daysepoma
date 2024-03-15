@@ -9,14 +9,13 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20💻⋆⁺₊✧&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
-
 ![](https://komarev.com/ghpvc/?username=dnpoma&color=ac82e5&style=plastic&label=you're)
 <!-- <img height="30em" src="https://profile-counter.glitch.me/daysepoma/count.svg"/> -->
 </div>
 
 ---
-<p align="center" style="color:#ac82e5; text-align: center;">🎀<i>stats</i>🎀</p>
 
+<p align="center" style="color:#ac82e5; text-align: center;">🎀<i>stats</i>🎀</p>
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnpoma&theme=high-contrast&bg_color=20232a&hide_border=true&line=ac82e5&custom_title=Contribution%20Graph" width="100%"/> -->
 
 
@@ -31,20 +30,17 @@
     </a>
   </div>
 </p>
+<br/>
 
-
-<br/><br/><br/>
----
-<br/><br/><br/>
-
-<p align="center">
+--- 
+<br/>
 <div align="center">
     <p style="color:#ac82e5">
     <i>
     My Beloved Tech Treasures</i>🧸💫</p>
     <div style="flex: 1; padding: 5px; display: inline-block;text-align: center; border">
         <table>
-        <tr>
+        <tr  align="center">
             <td>
             <img src="https://skillicons.dev/icons?i=html"width="48" height="48" alt="html" />
             <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
@@ -52,7 +48,7 @@
             <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
             </td>
         </tr>
-        <tr>
+        <tr  align="center">
             <td>
             <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
             <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -74,12 +70,9 @@
         </table>
     </div>
 </div>
-</p>
 
-</br></br></br></br>
-
+<br/>
 ---
-
 
 <div align="center">
 <p style="color:#ac82e5; text-align: center;"><i>Have fun</i> 💻🌟🌸</p>
@@ -89,7 +82,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=6B7ABF&hide_progress=true&border_color=dcdbff) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=6B7ABF&hide_progress=true&border_color=dcdbff) 
+
+
 
 <!--
 **dnpoma/dnpoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
