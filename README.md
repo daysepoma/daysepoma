@@ -16,7 +16,6 @@
 ---
 
 <p align="center" style="color:#ac82e5; text-align: center;">🎀<i>stats</i>🎀</p>
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnpoma&theme=high-contrast&bg_color=20232a&hide_border=true&line=ac82e5&custom_title=Contribution%20Graph" width="100%"/> -->
 
 <p align="center">
   <div align="center" style="display: flex; justify-content: center;">
@@ -28,7 +27,6 @@
     </a>
   </div>
 </p>
-<br/>
 
 ---
 
@@ -70,29 +68,9 @@
     </div>
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 <p style="color:#ac82e5; text-align: center;"><i>Have fun</i> 💻🌟🌸</p>
   <img src="https://i.giphy.com/lVHOm4nZ0yfFXI8cgd.webp" width="90">
 </div>
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnpoma)](https://github.com/dnpoma/github-readme-stats&title_color=6B7ABF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=6B7ABF&hide_progress=true&border_color=dcdbff)
-
-<!--
-**dnpoma/dnpoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnpoma)](
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
