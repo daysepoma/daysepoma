@@ -8,7 +8,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20💻⋆⁺₊✧&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
-![](https://komarev.com/ghpvc/?username=dnpoma&color=ac82e5&style=plastic&label=you're)
+![](https://komarev.com/ghpvc/?username=daysepoma&color=ac82e5&style=plastic&label=you're)
 
 <!-- <img height="30em" src="https://profile-counter.glitch.me/daysepoma/count.svg"/> -->
 </div>
@@ -20,10 +20,10 @@
 <p align="center">
   <div align="center" style="display: flex; justify-content: center;">
     <a style="flex: 1; padding: 5px; margin-top:10px; margin-right: 10px;" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=dnpoma&theme=buefy&border=dcdbff&card_width=150px" alt="zumrudu-anka" />
+      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=daysepoma&theme=buefy&border=dcdbff&card_width=150px" alt="zumrudu-anka" />
     </a>
     <a style="flex: 1; padding: 5px; margin-top:10px; margin-left: 10px;" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnpoma&title_color=ac82e5&hide_progress=true&border_color=dcdbff" />
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysepoma&title_color=ac82e5&hide_progress=true&border_color=dcdbff" />
     </a>
   </div>
   <br/><br/><br/>
