@@ -47,14 +47,11 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <div align="center">
-<p>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" /></a><a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" width="36" height="36" /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub" width="36" height="36" /></a><a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="36" height="36" /></a><a href="https://postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="36" height="36" /></a>
-<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://javascript.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="36" height="36" /></a><a href="https://selenium.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" width="36" height="36" /></a><a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" width="36" height="36" /></a>
-</p>
-  <br />
-  <small>Fullstack from frontend flair to backend resilience. Always adding more! 🚀</small>
+  <img src="https://skillicons.dev/icons?i=materialui,angular,tailwind,figma,ai,github,docker,postman,postgres,mongo,nodejs,typescript,javascript,python,selenium,java,spring" />
+   <p style="color:#ac82e5">
+    <i>
+    My Beloved Tech Treasures</i>🧸💫</p>
 </div>
 
 ---
