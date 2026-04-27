@@ -1,99 +1,76 @@
-<h1 align="center" style="color:#ac82e5;">Hi there 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFB278&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;Creative+Fullstack" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <em>Creative fullstack developer focused on building solutions with a balance of clean logic, thoughtful UX, and scalable architecture.</em>
+  <em>Building solutions that blend clean logic, thoughtful UX, and scalable architecture. Code that works, feels, and scales beautifully. ✨</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daysepoma">
-    <img src="https://img.shields.io/badge/-Dayse%20Poma-ac82e5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://daysepoma.com">
+    <img src="https://img.shields.io/badge/-Dayse%20Poma-EFB278?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.figma.com/@daysepoma">
-    <img src="https://img.shields.io/badge/-Figma%20Portfolio-ffb6c1?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge"/>
+    <img src="https://img.shields.io/badge/-Figma%20Portfolio-F6ECB8?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://github.com/daysepoma?tab=repositories">
+    <img src="https://img.shields.io/badge/-Repositories-F5B800?style=flat-square&logo=github&logoColor=white" alt="Repos" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20GitHub%20💻⋆⁺₊✧&width=800&height=200" alt="Welcome banner"/>
-  <img src="https://komarev.com/ghpvc/?username=daysepoma&color=ac82e5&style=plastic&label=Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=daysepoma&color=EFB278&style=plastic&label=Profile+Visitors" />
 </div>
 
 ---
 
 ### 💫 About Me
-<blockquote align="center">
-  <em>
-    "Software should return to what matters — clarity, flow, and purpose.<br/>
-    Developer of systems that work, feel, and scale beautifully."
-  </em>
-</blockquote>
-<br/>
 
-- 💻 I write code that’s clear, maintainable and user-centered.
-- 🎨 Passionate about **UI/UX design**, product thinking and building beautiful things.
--  🧩 I enjoy refactoring legacy systems just as much as crafting new ones.
-- 🧠 Interested in software architecture, testing strategies and performance optimization.
-- 🔥 I craft backend systems where resilience and elegance meet — where every layer has a reason to exist.
+> "Software should return to what matters—clarity, flow, and purpose.  
+> I craft systems that work, feel, and scale beautifully."
+
+- 💻 **Fullstack Alchemist**: Clean, maintainable code with user-centered magic.
+- 🎨 **UI/UX Wizard**: Product thinker building beautiful, intuitive experiences.
+- 🧩 **Refactor Ninja**: Love turning legacy chaos into elegant flows.
+- 🧠 **Architecture Enthusiast**: Deep dives into testing, perf opt, and resilient backends.
+- 🔥 **Currently**: Experimenting with AI agents + Shadcn UI for next-gen apps.
 
 ---
 
-### 🪄 Stats
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=daysepoma&theme=buefy&border=dcdbff&card_width=150px" alt="GitHub Streak"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysepoma&title_color=ac82e5&hide_progress=true&border_color=dcdbff" alt="Top Langs"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daysepoma&show_icons=true&theme=radical&border_color=EFB278&bg_color=0d1117&title_color=EFB278&text_color=ffffff&hide_border=true" alt="Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysepoma&layout=compact&theme=radical&border_color=EFB278&bg_color=0d1117&title_color=EFB278&hide_border=true" alt="Top Langs" />
 </p>
 
-
 ---
-### 🧰Tools & technologies
+
+### 🛠️ Tech Stack
 
 <div align="center">
-    <div style="flex: 1; padding: 5px; display: inline-block;text-align: center; border">
-        <table>
-        <tr  align="center">
-            <td>
-            <img src="https://skillicons.dev/icons?i=materialui"width="48" height="48" alt="materialui" />
-            <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-            <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="ai" />
-            </td>
-        </tr>
-        <tr  align="center">
-            <td>
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
-            <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="mongo" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <img src="https://skillicons.dev/icons?i=nodejs"width="48" height="48" alt="nodejs" />
-            <img src="https://skillicons.dev/icons?i=typescript"width="48" height="48" alt="typescript" />
-            <img src="https://skillicons.dev/icons?i=javascript"width="48" height="48" alt="javascript" />
-            <img src="https://skillicons.dev/icons?i=python"width="48" height="48" alt="python" />
-            <img src="https://skillicons.dev/icons?i=selenium"width="48" height="48" alt="selenium" />
-            <img src="https://skillicons.dev/icons?i=java"width="48" height="48" alt="java" />
-            <img src="https://skillicons.dev/icons?i=spring"width="48" height="48" alt="spring" />
-            </td>
-        </tr>
-        </table>
-    </div>
+<p>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" /></a><a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" title="Adobe Illustrator" width="36" height="36" /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub" width="36" height="36" /></a><a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="36" height="36" /></a><a href="https://postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="36" height="36" /></a>
+<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://javascript.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="36" height="36" /></a><a href="https://selenium.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" width="36" height="36" /></a><a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" width="36" height="36" /></a>
+</p>
+  <br />
+  <small>Fullstack from frontend flair to backend resilience. Always adding more! 🚀</small>
 </div>
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning / Building
 
-There’s no end to learning — and I love that.  
-As a passionate software developer with a product mindset, I’m constantly exploring how to simplify, scale, and refine the systems I build.
+- AI agents (Ollama, Claude) for automated workflows
+- Shadcn UI + Tailwind for pixel-perfect components
+- Scalable architectures with microservices & edge computing
 
+> There’s no end to learning — and I love that.  
+> As a passionate software developer with a product mindset, I’m constantly exploring how to simplify, scale, and refine the systems I build.
 
 ---
 
-<p align="center"><em>Have fun, you’re doing amazing.
-<br> ⋆⁺₊✧</em></p>
-<p align="center"><img src="https://i.giphy.com/lVHOm4nZ0yfFXI8cgd.webp" width="90" alt="Coding Cat" /></p>
+<p align="center">
+  <em>Have fun—you're doing amazing! ⋆⁺₊✧</em><br>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxoN3d4ZDQzY2hyODdrNWEybWFkMmF5MnVsOWsycWUxYjNnM240ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KWJZ8NQWeKRvcbkpZz/giphy.gif" width="90" alt="Coding Cat" />
+</p>
