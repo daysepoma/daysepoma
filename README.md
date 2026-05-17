@@ -29,20 +29,21 @@ Besides code — music, writing, grounding, sleeping more than I should.
 
 I like systems that are clean, honest, and actually solve something.
 
-<em>Have fun—you're doing amazing! ⋆⁺₊✧</em><br>
 
 ---
 
-### <i>My Beloved Tech Treasures ‧₊˚·⊹･⋆.‧⁺˖✧･ﾟ:˚⊹·ﾟ✧˚₊‧</i>
+### Tech Stack
+<i>My Beloved Tech Treasures ‧₊˚·⊹･⋆.‧⁺˖✧･ﾟ:˚⊹·ﾟ✧˚₊‧</i>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=materialui,angular,tailwind,figma,ai,github,docker,postman,postgres,mongo,nodejs,typescript,javascript,python,selenium,java,spring" />
 </div>
 
 ---
 
-
 <p align="center">
-  <em>Just one decision away — let's connect💫 </em><br>
+  <em>Have fun—you're doing amazing! ⋆⁺₊✧</em>
+  <br><br>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxoN3d4ZDQzY2hyODdrNWEybWFkMmF5MnVsOWsycWUxYjNnM240ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KWJZ8NQWeKRvcbkpZz/giphy.gif" width="90" alt="Coding Cat" />
+  <br><br>
+  <em>Just one decision away — let's connect 💫</em>
 </p>
-
