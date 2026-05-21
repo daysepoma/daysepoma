@@ -33,7 +33,7 @@ I like systems that are clean, honest, and actually solve something.
 ---
 
 ### Tech Stack
-<i>My Beloved Tech Treasures ‧₊˚·⊹･⋆.‧⁺˖✧･ﾟ:˚⊹·ﾟ✧˚₊‧</i>
+<i>My Beloved Tech Treasures ‧₊˚·⊹･⋆.‧⁺˖✧･:˚⊹·ﾟ✧˚₊‧</i>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=materialui,angular,tailwind,figma,ai,github,docker,postman,postgres,mongo,nodejs,typescript,javascript,python,selenium,java,spring" />
 </div>
