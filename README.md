@@ -25,7 +25,7 @@
 
 I build software that scales and feels good to use. Right now: a SaaS for LATAM and AI automation workflows at my day job. Both from scratch, both solving real problems.
 
-Besides code — music, writing, grounding, sleeping more than I should.
+Besides code — music, writing, grounding.
 
 I like systems that are clean, honest, and actually solve something.
 
