@@ -9,7 +9,7 @@
   <a href="https://daysepoma.com/figma?utm_source=github&utm_medium=readme_badge&utm_campaign=social_links">
     <img src="https://img.shields.io/badge/-Figma%20Portfolio-F6ECB8?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   </a>
-  <a href="https://daysepoma.com/github?utm_source=github&utm_medium=readme_badge&utm_campaign=social_links">
+  <a href="https://daysepoma.com/github-repos?utm_source=github&utm_medium=readme_badge&utm_campaign=social_links">
     <img src="https://img.shields.io/badge/-Repositories-F5B800?style=flat-square&logo=github&logoColor=white" alt="Repos" />
   </a>
 </p>
