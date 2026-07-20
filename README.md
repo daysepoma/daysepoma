@@ -12,6 +12,9 @@
   <a href="https://daysepoma.com/github-repos?utm_source=github&utm_medium=readme_badge&utm_campaign=social_links">
     <img src="https://img.shields.io/badge/-Repositories-F5B800?style=flat-square&logo=github&logoColor=white" alt="Repos" />
   </a>
+  <a href="https://www.duolingo.com/profile/day.0000">
+    <img src="https://img.shields.io/badge/-Duolingo-000000?style=flat-square&logo=duolingo&logoColor=white" alt="Duolingo" />
+  </a>
 </p>
 
 <div align="center">
